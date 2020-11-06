@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 
+#include "Çì´õ.h"
+
 #define USER_MAX 6
 
 using namespace std;
