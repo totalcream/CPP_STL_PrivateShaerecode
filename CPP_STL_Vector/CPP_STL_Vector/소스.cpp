@@ -113,5 +113,5 @@ GameRoomUser::~GameRoomUser()
 
 int main()
 {
-
+	return 0;
 }
